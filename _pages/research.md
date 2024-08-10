@@ -22,9 +22,11 @@ Publications
 
 Can Bitcoin Mining Increase Renewable Electricity Capacity?\\
 August Bruno, Paige Weber, and Andrew J. Yates\\
-Resource and Energy Economics, 2023
+Resource and Energy Economics, 2023\\
+Paper: [Paper](https://www.sciencedirect.com/science/article/pii/S0928765523000313?via%3Dihub) 
 
 U.S. West Coast Droughts and Heat Waves Exacerbate Pollution Inequality and Can Undermine Emission Control Policies\\
 Amir Zeighami, Jordan Kern, Andrew J. Yates, Paige Weber, and August Bruno\\
 Nature Communications, 2023\\
 Media: LATimes\\
+Paper: [Paper](https://www.nature.com/articles/s41467-023-37080-0) 
