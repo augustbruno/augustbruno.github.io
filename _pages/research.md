@@ -20,10 +20,8 @@ Can We Rank The Three Main Parenting Styles? Evidence From a Model of Parent-Chi
 
 Publications
 
-Can Bitcoin Mining Increase Renewable Electricity Capacity?
-
-August Bruno, Paige Weber, and Andrew J. Yates
-
+Can Bitcoin Mining Increase Renewable Electricity Capacity?\\
+August Bruno, Paige Weber, and Andrew J. Yates\\
 Resource and Energy Economics, 2023
 
 U.S. West Coast Droughts and Heat Waves Exacerbate Pollution Inequality and Can Undermine Emission Control Policies
