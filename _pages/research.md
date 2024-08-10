@@ -24,7 +24,7 @@ Can Bitcoin Mining Increase Renewable Electricity Capacity?\\
 August Bruno, Paige Weber, and Andrew J. Yates\\
 Resource and Energy Economics, 2023
 
-U.S. West Coast Droughts and Heat Waves Exacerbate Pollution Inequality and Can Undermine Emission Control Policies
-Amir Zeighami, Jordan Kern, Andrew J. Yates, Paige Weber, and August Bruno
-Nature Communications, 2023
-Media: LATimes
+U.S. West Coast Droughts and Heat Waves Exacerbate Pollution Inequality and Can Undermine Emission Control Policies\\
+Amir Zeighami, Jordan Kern, Andrew J. Yates, Paige Weber, and August Bruno\\
+Nature Communications, 2023\\
+Media: LATimes\\
