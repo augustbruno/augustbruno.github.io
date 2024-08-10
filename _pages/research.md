@@ -17,3 +17,5 @@ author_profile: true
 Works In Progress
 
 Can We Rank The Three Main Parenting Styles? Evidence From a Model of Parent-Child Interaction and Child Skill Development (Job Market Paper)
+
+Publications
