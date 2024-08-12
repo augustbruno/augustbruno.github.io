@@ -16,7 +16,9 @@ author_profile: true
 {% endfor %} -->
 Works In Progress
 
-Can We Rank The Three Main Parenting Styles? Evidence From a Model of Parent-Child Interaction and Child Skill Development (Job Market Paper)
+Assessing the Relative Importance of Parenting Style Decisions in a Model of Child Skill Development (Job Market Paper)
+
+How Does The Choice of Parenting Style Influence The Productivity of Parental Time Investment? 
 
 Publications
 
