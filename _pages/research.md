@@ -20,6 +20,8 @@ Assessing the Relative Importance of Parenting Style Decisions in a Model of Chi
 
 How Does The Choice of Parenting Style Influence The Productivity of Parental Time Investment? 
 
+Does The Disciplinarian Matter? A Model Parenting Choices And Child Skill Development
+
 Publications
 
 Can Bitcoin Mining Increase Renewable Electricity Capacity?\\
