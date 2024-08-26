@@ -17,7 +17,7 @@ author_profile: true
 Econ 410: Microeconomics
 Summer 2024 at UNC Chapel Hill
 * Notes
-  * <a href="https://augustbruno.github.io/_pages/utility_maximization.pdf" target="_blank">Utility Maximization .</a>
+  * <a href="https://augustbruno.github.io/_pages/utility_maximization.pdf" target="_blank">Utility Maximization</a>
   * Marginal Rate of Substitution 
 
   
