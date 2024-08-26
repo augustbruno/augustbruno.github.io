@@ -18,3 +18,4 @@ Econ 410: Microeconomics
 Summer 2024 at UNC Chapel Hill
 * Notes
   * Utility Maximization
+  * Marginal Rate of Substitution 
