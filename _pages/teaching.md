@@ -16,3 +16,4 @@ author_profile: true
 {% endfor %} -->
 Econ 410: Microeconomics
 Summer 2024 at UNC Chapel Hill
+* Notes
