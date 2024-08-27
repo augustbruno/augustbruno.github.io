@@ -18,9 +18,7 @@ Works In Progress
 
 Assessing the Relative Importance of Parenting Style Decisions in a Model of Child Skill Development (Job Market Paper)
 
-How Does The Choice of Parenting Style Influence The Productivity of Parental Time Investment? 
-
-Parenting Style And The Non-Monotonicity Of Child Time Investment
+A Further Examination of the Relative Importance of Parenting Style Decisions in a Model of Child Skill Development
 
 Publications
 
