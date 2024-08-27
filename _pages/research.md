@@ -19,6 +19,7 @@ Works In Progress
 Assessing the Relative Importance of Parenting Style Decisions in a Model of Child Skill Development (Job Market Paper)
 
 Parenting Decisions When Child Discount Factors Are Endogenous
+* An extension of my Job Market Paper where I allow the child's discount factor to be a function of the current stock of their cognitive skills
 
 Publications
 
