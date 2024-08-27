@@ -18,7 +18,7 @@ Works In Progress
 
 Assessing the Relative Importance of Parenting Style Decisions in a Model of Child Skill Development (Job Market Paper)
 
-A Further Examination of the Relative Importance of Parenting Style Decisions in a Model of Child Skill Development
+Parenting Decisions When Child Discount Factors Are Endogenous
 
 Publications
 
