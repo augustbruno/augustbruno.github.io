@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-Works In Progress
+**Works In Progress**
 
 The Importance of Parenting Style Decisions for Child Skill Development (Job Market Paper)
 
@@ -22,7 +22,7 @@ Parenting Decisions When Child Discount Factors Are Endogenous
 
 Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
 
-Publications
+**Publications**
 
 Can Bitcoin Mining Increase Renewable Electricity Capacity?\\
 August Bruno, Paige Weber, and Andrew J. Yates\\
