@@ -21,3 +21,6 @@ Summer 2024 at UNC Chapel Hill
   * <a href="https://augustbruno.github.io/_pages/mrs.pdf" target="_blank">Marginal Rate of Substitution</a>
 
 * Old Exams
+  * <a href="https://augustbruno.github.io/files/midterm1.pdf" target="_blank">Midterm 1</a>
+  * <a href="https://augustbruno.github.io/files/midterm2.pdf" target="_blank">Midterm 2</a>
+  * <a href="https://augustbruno.github.io/files/final_exam.pdf" target="_blank">Final Exam</a>
