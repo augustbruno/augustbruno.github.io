@@ -16,9 +16,11 @@ author_profile: true
 {% endfor %} -->
 **Works In Progress**
 
-The Importance of Parenting Style Decisions for Child Skill Development (Job Market Paper)
+Parenting Style Decisions and Child Skill Development (Job Market Paper)
 
 Parenting Decisions When Child Discount Factors Are Endogenous
+
+Child Time Allocation, Parenting Style, and Child Development
 
 Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
 
