@@ -34,6 +34,7 @@ Media: LATimes\\
 [Paper](https://www.nature.com/articles/s41467-023-37080-0) 
 
 **Works In Progress**
+
 Parenting Decisions When Child Discount Factors Are Endogenous
 
 Child Time Allocation, Parenting Style, and Child Development
