@@ -14,13 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-**Works In Progress**
+**Working Papers**
 
 Parenting Style Decisions and Child Skill Development (Job Market Paper)
-
-Parenting Decisions When Child Discount Factors Are Endogenous
-
-Child Time Allocation, Parenting Style, and Child Development
 
 Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
 
@@ -36,3 +32,8 @@ Amir Zeighami, Jordan Kern, Andrew J. Yates, Paige Weber, and August Bruno\\
 Nature Communications, 2023\\
 Media: LATimes\\
 [Paper](https://www.nature.com/articles/s41467-023-37080-0) 
+
+**Works In Progress**
+Parenting Decisions When Child Discount Factors Are Endogenous
+
+Child Time Allocation, Parenting Style, and Child Development
