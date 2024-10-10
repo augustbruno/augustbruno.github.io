@@ -20,6 +20,7 @@ Summer 2024 at UNC Chapel Hill
   * <a href="https://augustbruno.github.io/files/math_review.pdf" target="_blank">Math Review</a>
   * <a href="https://augustbruno.github.io/_pages/utility_maximization.pdf" target="_blank">Utility Maximization</a>
   * <a href="https://augustbruno.github.io/_pages/mrs.pdf" target="_blank">Marginal Rate of Substitution</a>
+  * <a href="https://augustbruno.github.io/_pages/cost_min.pdf" target="_blank">Cost Minimization</a>
 
 * Old Exams
   * <a href="https://augustbruno.github.io/files/midterm1.pdf" target="_blank">Midterm 1</a>
