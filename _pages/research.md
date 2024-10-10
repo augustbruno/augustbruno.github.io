@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 **Working Papers**
 
-Parenting Style Decisions and Child Skill Development (Job Market Paper)
+Parenting Style Decisions and Child Skill Development (Job Market Paper) <a href="https://augustbruno.github.io/files/aab_jmp.pdf" target="_blank">JMP</a>
 
 Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
 
