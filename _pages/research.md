@@ -18,7 +18,7 @@ author_profile: true
 
 Parenting Style Decisions and Child Skill Development (Job Market Paper) <a href="https://augustbruno.github.io/files/aab_jmp.pdf" target="_blank">JMP</a>
 
-Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
+
 
 **Publications**
 
@@ -38,3 +38,5 @@ Media: LATimes\\
 Parenting Decisions When Child Discount Factors Are Endogenous
 
 Child Time Allocation, Parenting Style, and Child Development
+
+Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
