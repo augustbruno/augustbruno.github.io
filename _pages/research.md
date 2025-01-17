@@ -34,9 +34,8 @@ Media: LATimes\\
 [Paper](https://www.nature.com/articles/s41467-023-37080-0) 
 
 **Works In Progress**
+Authoritarian Parenting, Impulsive Children, and Skill Development
 
-Parenting Decisions When Child Discount Factors Are Endogenous
-
-Child Time Allocation, Parenting Style, and Child Development
+Family Structure, Parenting Style, and Child Development
 
 Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
