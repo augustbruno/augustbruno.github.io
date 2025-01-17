@@ -34,6 +34,7 @@ Media: LATimes\\
 [Paper](https://www.nature.com/articles/s41467-023-37080-0) 
 
 **Works In Progress**
+
 Authoritarian Parenting, Impulsive Children, and Skill Development
 
 Family Structure, Parenting Style, and Child Development
