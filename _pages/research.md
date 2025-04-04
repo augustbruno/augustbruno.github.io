@@ -35,7 +35,7 @@ Media: LATimes\\
 
 **Works In Progress**
 
-Authoritarian Parenting, Impulsive Children, and Skill Development
+Parental Rules and the Development of Children
 
 Family Structure, Parenting Style, and Child Development
 
