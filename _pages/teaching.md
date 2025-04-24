@@ -24,6 +24,8 @@ Summer 2024 at UNC Chapel Hill
   * <a href="https://augustbruno.github.io/_pages/perfect_competition.pdf" target="_blank">Perfect Competition</a>
   * <a href="https://augustbruno.github.io/_pages/uncertainty_notes.pdf" target="_blank">Uncertainty</a>
 
+* Practice Problems
+
 * Old Exams
   * <a href="https://augustbruno.github.io/files/midterm1.pdf" target="_blank">Midterm 1</a>
   * <a href="https://augustbruno.github.io/files/midterm2.pdf" target="_blank">Midterm 2</a>
