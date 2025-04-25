@@ -26,6 +26,7 @@ Summer 2024 at UNC Chapel Hill
 
 * Practice Problems
   * <a href="https://augustbruno.github.io/_pages/final_rev.pdf" target="_blank">Practice Problems 1</a>
+  * <a href="https://augustbruno.github.io/_pages/final_rev2.pdf" target="_blank">Practice Problems 2</a>
 
 * Old Exams
   * <a href="https://augustbruno.github.io/files/midterm1.pdf" target="_blank">Midterm 1</a>
