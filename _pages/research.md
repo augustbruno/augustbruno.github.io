@@ -35,8 +35,8 @@ Media: LATimes\\
 
 **Works In Progress**
 
-Parental Rules and the Development of Children
+An Equilibrium Model of Authoritarian Parenting
 
-Family Structure, Parenting Style, and Child Development
+Parental Beliefs and Child Skill Development
 
 Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
