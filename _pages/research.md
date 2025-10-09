@@ -35,8 +35,12 @@ Media: LATimes\\
 
 **Works In Progress**
 
-An Equilibrium Model of Authoritarian Parenting
+Parenting, Children's Time Allocation, and Skill Development
 
-Parental Beliefs and Child Skill Development
+Traditional Values and Household Behavior 
+
+The Gender Earnings Gap in Entrepreneurship: Capital Investment, Work Hours, and Household Dynamics, with Nicholas Graff
+(Austin College)
+
 
 Estimating Heterogeneous Marginal Environmental Effects on Electrical Grids: Regularized Panel Data Regression Approach” (with Andrew J. Yates, Andrew Capron, and Valentin Verdier)
