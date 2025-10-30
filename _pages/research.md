@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 **Working Papers**
 
-Parenting Decisions and Child Skill Development (Job Market Paper) <a href="https://augustbruno.github.io/files/aab_jmp.pdf" target="_blank">JMP</a>
+Parenting Decisions and Child Skill Development (Job Market Paper) <a href="https://augustbruno.github.io/files/aab_jmp.pdf" target="_blank">JMP</a> (Submitted)
 
 
 
