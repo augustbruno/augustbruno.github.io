@@ -35,11 +35,9 @@ Media: LATimes\\
 
 **Works In Progress**
 
-Parenting, Children's Time Allocation, and Skill Development
+Parental Values, Child Time Preferences, and Skill Development
 
-Children's Self-Esteem and Time Allocation Decisions
-
-Traditional Values and Household Behavior 
+Maternal Stress and Child Skill Development
 
 The Gender Earnings Gap in Entrepreneurship: Capital Investment, Work Hours, and Household Dynamics, with Nicholas Graff
 (Austin College)
