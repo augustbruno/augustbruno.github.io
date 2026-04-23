@@ -18,7 +18,7 @@ Skidmore College
 
   * Introduction to Microeconomics 
   * Labor Economics 
-  * Health Economics (Sp 2026)
+  * Health Economics 
 
 
 University of North Carolina at Chapel Hill 
