@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Visiting Assistant Professor at Skidmore College. I received my PhD in Economics from the University of North Carolina at Chapel Hill.  My research focuses on household interaction and the skill development of children. 
+I am a Visiting Assistant Professor at Union College. I received my PhD in Economics from the University of North Carolina at Chapel Hill.  My research focuses on household interaction and the skill development of children. 
 <!-- 
  My research focuses on household interaction and child skill development. I have also had the great fortune of publishing (with wonderful coauthors!) multiple papers in environmental economics. -->
 
