@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 Union College 
 
-  * Women, Men, Work \& Family
+  * Women, Men, Work & Family
   
 
 Skidmore College 
