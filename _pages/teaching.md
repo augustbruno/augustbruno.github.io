@@ -17,6 +17,7 @@ author_profile: true
 Union College 
 
   * Women, Men, Work & Family
+  * Senior Thesis Advising (ECO 498-499)
   
 
 Skidmore College 
