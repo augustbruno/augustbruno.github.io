@@ -24,7 +24,7 @@ Skidmore College
 
   * Introduction to Microeconomics 
   * Labor Economics 
-  * Health Economics ([Teaching evaluation PDF]({{'/Users/augustbruno/Documents/GitHub/augustbruno.github.io/files/Spring_2026-Health_Economics.pdf' }}))
+  * * Health Economics ([Teaching evaluation PDF]({{ '/files/Spring_2026-Health_Economics.pdf' | relative_url }}))
 
 
 University of North Carolina at Chapel Hill 
