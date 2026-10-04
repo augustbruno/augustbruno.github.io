@@ -22,9 +22,9 @@ Union College
 
 Skidmore College 
 
-  * Introduction to Microeconomics  ([Evaluations]({{ '/files/Intro_to_Microeconomics_Skidmore.pdf' | relative_url }}))
-  * Labor Economics ([Evaluations]({{ '/files/Fall_2025-Labor_Economics.pdf' | relative_url }}))
-  * Health Economics ([Evaluations]({{ '/files/Spring_2026-Health_Economics.pdf' | relative_url }}))
+  * Introduction to Microeconomics  [Evaluations]({{ '/files/Intro_to_Microeconomics_Skidmore.pdf' | relative_url }})
+  * Labor Economics [Evaluations]({{ '/files/Fall_2025-Labor_Economics.pdf' | relative_url }})
+  * Health Economics [Evaluations]({{ '/files/Spring_2026-Health_Economics.pdf' | relative_url }})
 
 
 University of North Carolina at Chapel Hill 
