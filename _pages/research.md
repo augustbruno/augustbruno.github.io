@@ -35,10 +35,11 @@ Media: LATimes\\
 
 **Works In Progress**
 
-Maternal Frustration and Child Skill Development
+The Emotional Price of Parenting: Child Behavior, Maternal Aggravation, and Parental Investment
+
+Warmth, Control, and Child Development
 
 Do Stanley Cups Influence Player Salary Negotiations? with Joe Ballard (Skidmore College)
 
-The Gender Earnings Gap in Entrepreneurship: Capital Investment, Work Hours, and Household Dynamics, with Nicholas Graff
-(Austin College)
+
 
